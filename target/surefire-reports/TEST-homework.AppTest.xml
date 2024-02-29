@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="homework.AppTest" time="0.141" tests="19" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="homework.AppTest" time="0.181" tests="19" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomework/target/test-classes:/Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomework/target/classes:/Users/ashwin/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.1/junit-jupiter-api-5.10.1.jar:/Users/ashwin/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/ashwin/.m2/repository/org/junit/platform/junit-platform-commons/1.10.1/junit-platform-commons-1.10.1.jar:/Users/ashwin/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/ashwin/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.1/junit-jupiter-engine-5.10.1.jar:/Users/ashwin/.m2/repository/org/junit/platform/junit-platform-engine/1.10.1/junit-platform-engine-1.10.1.jar:"/>
+    <property name="java.class.path" value="/Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomeworkk/target/test-classes:/Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomeworkk/target/classes:/Users/ashwin/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.1/junit-jupiter-api-5.10.1.jar:/Users/ashwin/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/ashwin/.m2/repository/org/junit/platform/junit-platform-commons/1.10.1/junit-platform-commons-1.10.1.jar:/Users/ashwin/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/ashwin/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.1/junit-jupiter-engine-5.10.1.jar:/Users/ashwin/.m2/repository/org/junit/platform/junit-platform-engine/1.10.1/junit-platform-engine-1.10.1.jar:"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://java.oracle.com/"/>
-    <property name="user.timezone" value="America/Toronto"/>
     <property name="os.name" value="Mac OS X"/>
     <property name="java.vm.specification.version" value="21"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="CA"/>
     <property name="sun.boot.library.path" value="/Users/ashwin/Library/Java/JavaVirtualMachines/openjdk-21.0.1/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomework/target/surefire/surefirebooter-20240228211844659_3.jar /Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomework/target/surefire 2024-02-28T21-18-44_526-jvmRun1 surefire-20240228211844659_1tmp surefire_0-20240228211844659_2tmp"/>
+    <property name="sun.java.command" value="/Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomeworkk/target/surefire/surefirebooter-20240228232257178_3.jar /Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomeworkk/target/surefire 2024-02-28T23-22-56_983-jvmRun1 surefire-20240228232257178_1tmp surefire_0-20240228232257178_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomework/target/test-classes:/Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomework/target/classes:/Users/ashwin/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.1/junit-jupiter-api-5.10.1.jar:/Users/ashwin/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/ashwin/.m2/repository/org/junit/platform/junit-platform-commons/1.10.1/junit-platform-commons-1.10.1.jar:/Users/ashwin/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/ashwin/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.1/junit-jupiter-engine-5.10.1.jar:/Users/ashwin/.m2/repository/org/junit/platform/junit-platform-engine/1.10.1/junit-platform-engine-1.10.1.jar:"/>
+    <property name="surefire.test.class.path" value="/Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomeworkk/target/test-classes:/Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomeworkk/target/classes:/Users/ashwin/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.1/junit-jupiter-api-5.10.1.jar:/Users/ashwin/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/ashwin/.m2/repository/org/junit/platform/junit-platform-commons/1.10.1/junit-platform-commons-1.10.1.jar:/Users/ashwin/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/ashwin/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.1/junit-jupiter-engine-5.10.1.jar:/Users/ashwin/.m2/repository/org/junit/platform/junit-platform-engine/1.10.1/junit-platform-engine-1.10.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/Users/ashwin"/>
     <property name="user.language" value="en"/>
@@ -24,13 +23,13 @@
     <property name="java.version.date" value="2023-10-17"/>
     <property name="java.home" value="/Users/ashwin/Library/Java/JavaVirtualMachines/openjdk-21.0.1/Contents/Home"/>
     <property name="file.separator" value="/"/>
-    <property name="basedir" value="/Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomework"/>
+    <property name="basedir" value="/Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomeworkk"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomework/target/surefire/surefirebooter-20240228211844659_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomeworkk/target/surefire/surefirebooter-20240228232257178_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="21.0.1+12-29"/>
@@ -45,7 +44,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="/var/folders/hk/j6btmztd58133xdx5f5z00xc0000gn/T/"/>
     <property name="java.version" value="21.0.1"/>
-    <property name="user.dir" value="/Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomework"/>
+    <property name="user.dir" value="/Users/ashwin/Desktop/OnTechU/Winter 2024/Quality - SOFE 3980U/nextdatehomeworkk"/>
     <property name="os.arch" value="x86_64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="native.encoding" value="UTF-8"/>
@@ -58,71 +57,26 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="test10" classname="homework.AppTest" time="0.034">
+  <testcase name="test10" classname="homework.AppTest" time="0.04">
     <system-out><![CDATA[Testing Starting.
 ]]></system-out>
-    <system-err><![CDATA[Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Invalid Input") declaration on [public void homework.AppTest.test10()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Invalid Input") declaration on [public void homework.AppTest.test11()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Invalid Input") declaration on [public void homework.AppTest.test12()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Invalid Input") declaration on [public void homework.AppTest.test13()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Invalid Input") declaration on [public void homework.AppTest.test15()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Invalid Input") declaration on [public void homework.AppTest.test16()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Valid Input") declaration on [public void homework.AppTest.test17()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Valid Input") declaration on [public void homework.AppTest.test18()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Valid Input") declaration on [public void homework.AppTest.test19()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Valid Input") declaration on [public void homework.AppTest.test20()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Invalid Input") declaration on [public void homework.AppTest.test9()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Invalid Input") declaration on [public void homework.AppTest.test10()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Invalid Input") declaration on [public void homework.AppTest.test11()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Invalid Input") declaration on [public void homework.AppTest.test12()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Invalid Input") declaration on [public void homework.AppTest.test13()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Invalid Input") declaration on [public void homework.AppTest.test15()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Invalid Input") declaration on [public void homework.AppTest.test16()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Valid Input") declaration on [public void homework.AppTest.test17()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Valid Input") declaration on [public void homework.AppTest.test18()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Valid Input") declaration on [public void homework.AppTest.test19()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Valid Input") declaration on [public void homework.AppTest.test20()]. Tag will be ignored.
-Feb 28, 2024 9:18:45 P.M. org.junit.jupiter.engine.descriptor.JupiterTestDescriptor lambda$getTags$1
-WARNING: Configuration error: invalid tag syntax in @Tag("Invalid Input") declaration on [public void homework.AppTest.test9()]. Tag will be ignored.
-]]></system-err>
   </testcase>
   <testcase name="test11" classname="homework.AppTest" time="0.002"/>
-  <testcase name="test12" classname="homework.AppTest" time="0.002"/>
-  <testcase name="test13" classname="homework.AppTest" time="0.001"/>
+  <testcase name="test12" classname="homework.AppTest" time="0.005"/>
+  <testcase name="test13" classname="homework.AppTest" time="0.002"/>
   <testcase name="test15" classname="homework.AppTest" time="0.001"/>
   <testcase name="test16" classname="homework.AppTest" time="0.001"/>
-  <testcase name="test17" classname="homework.AppTest" time="0.005"/>
+  <testcase name="test17" classname="homework.AppTest" time="0.015"/>
   <testcase name="test18" classname="homework.AppTest" time="0.002"/>
   <testcase name="test19" classname="homework.AppTest" time="0.001"/>
-  <testcase name="test20" classname="homework.AppTest" time="0.001"/>
+  <testcase name="test20" classname="homework.AppTest" time="0.004"/>
   <testcase name="test1" classname="homework.AppTest" time="0.001"/>
   <testcase name="test2" classname="homework.AppTest" time="0.002"/>
-  <testcase name="test3" classname="homework.AppTest" time="0.001"/>
-  <testcase name="test4" classname="homework.AppTest" time="0.001"/>
-  <testcase name="test5" classname="homework.AppTest" time="0.001"/>
+  <testcase name="test3" classname="homework.AppTest" time="0.009"/>
+  <testcase name="test4" classname="homework.AppTest" time="0.002"/>
+  <testcase name="test5" classname="homework.AppTest" time="0.002"/>
   <testcase name="test6" classname="homework.AppTest" time="0.001"/>
   <testcase name="test7" classname="homework.AppTest" time="0.001"/>
-  <testcase name="test8" classname="homework.AppTest" time="0.001"/>
-  <testcase name="test9" classname="homework.AppTest" time="0.003"/>
+  <testcase name="test8" classname="homework.AppTest" time="0.0"/>
+  <testcase name="test9" classname="homework.AppTest" time="0.001"/>
 </testsuite>
